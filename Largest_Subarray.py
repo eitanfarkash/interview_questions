@@ -5,7 +5,7 @@ best_sum = 0
 current_sum = 0
 start_index = 0
 end_index = 0
-tmp = 0
+tmp = 0 
 
 for i in range(len(numbers)):
     # print(f" num = {numbers[i]}")
