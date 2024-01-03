@@ -15,5 +15,6 @@ def ways(h):
         # print(mem)
         return mem[h]
 
-
-print(ways(4))
+n = 5
+print(f"ways of {n} is: {ways(n)}")
+print(f"mem = {mem}")
